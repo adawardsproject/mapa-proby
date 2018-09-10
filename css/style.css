@@ -1,0 +1,14 @@
+.cssmap-pins {
+    list-style-type: none !important;
+}
+.css-map-container *{
+    -moz-box-sizing: content-box !important;
+    -webkit-box-sizing: content-box !important;
+    box-sizing: content-box !important
+   }
+
+   .cssmap-markers-container *{
+    -moz-box-sizing: content-box !important;
+    -webkit-box-sizing: content-box !important;
+    box-sizing: content-box !important
+   }
